@@ -61,10 +61,16 @@ ul {
     margin: 0;
 }
 .sign-up {
-    background-color: blue;
-    border-radius: 12px;
-    color: white;
+    -webkit-border-radius: 9;
+    -moz-border-radius: 9;
+    border-radius: 9px;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: bold;
+    background: #3498db;
+    padding: 10px 26px 10px 25px;
     max-width: fit-content;
+    max-height: fit-content;
 }
 .image {
     display: flex;
