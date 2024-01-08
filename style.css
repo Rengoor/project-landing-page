@@ -30,3 +30,12 @@ ul {
     display: flex;
     gap: 16px;
 }
+.footer {
+    display: flex;
+    flex: none;
+    flex-basis: 50px;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+}
