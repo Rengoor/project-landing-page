@@ -68,7 +68,7 @@ ul {
     border-radius: 9px;
     border: none;
     color: #ffffff;
-    font-size: 12px;
+    font-size: 16px;
     font-weight: bold;
     background: #3882F6;
     padding: 10px 26px 10px 25px;
@@ -137,6 +137,32 @@ ul {
     color: #1F2937;
     margin-left: auto;
 } 
+.call-block {
+    display: flex;
+    padding: 80px 140px;
+    justify-content: center;
+    align-items: center;
+}
+.sign-up-card {
+    display: flex;
+    justify-content: space-between;
+    flex: 0 1 1100px;
+    background-color: #3882F6;
+    border-radius: 10px;
+    padding: 30px 80px;
+}
+.sign-up-card-text {
+    display: flex;
+    flex-direction: column;
+}
+.upper-text {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+#call-button {
+    border-style: solid;
+    border-width: 1px;
+}
 .footer {
     display: flex;
     flex: none;
