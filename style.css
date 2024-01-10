@@ -64,6 +64,7 @@ ul {
     -webkit-border-radius: 9;
     -moz-border-radius: 9;
     border-radius: 9px;
+    border: none;
     color: #ffffff;
     font-size: 12px;
     font-weight: bold;
