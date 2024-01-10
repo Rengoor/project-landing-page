@@ -19,8 +19,6 @@ body {
     color: #F9FAF8;
 }
 .header-links {
-    color: #E5E7EB;
-    font-size: 18px;
     margin-right: 140px;
 }
 a {
@@ -56,7 +54,7 @@ ul {
     font-size: 48px;
     margin: 0;
 }
-#website-subtext {
+#subtext {
     font-size: 18px;
     color: #E5E7EB;
     margin: 0;
