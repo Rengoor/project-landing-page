@@ -140,7 +140,7 @@ ul {
 } 
 .call-block {
     display: flex;
-    padding: 80px 140px;
+    padding: 90px 160px;
     justify-content: center;
     align-items: center;
 }
@@ -149,8 +149,8 @@ ul {
     justify-content: space-between;
     flex: 0 1 1100px;
     background-color: #3882F6;
-    border-radius: 10px;
-    padding: 30px 80px;
+    border-radius: 7px;
+    padding: 40px 90px;
 }
 .sign-up-card-text {
     display: flex;
