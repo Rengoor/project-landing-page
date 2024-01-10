@@ -111,6 +111,30 @@ ul {
     flex-direction: column;
     flex-basis: 150px;
 }
+.body-quote {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 140px;
+    height: 300px;
+}
+.quote-block {
+    display: flex;
+    flex-direction: column;
+}
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+    margin-right: auto;
+}
+.quoted {
+    font-size: 28px;
+    color: #1F2937;
+    margin-left: auto;
+} 
 .footer {
     display: flex;
     flex: none;
