@@ -39,6 +39,7 @@ ul {
 .container {
     display: flex;
     padding: 70px 140px 95px;
+    gap: 2em;
 }
 .website-info {
     display: flex;
@@ -84,6 +85,7 @@ ul {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-bottom: 80px;
 }
 .random-info {
     font-size: 36px;
@@ -93,16 +95,21 @@ ul {
 }
 .illustrations {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
 }
 .blue-boxes {
     border: #3882F6;
     border-style: solid;
     border-radius: 10px;
-    padding: 20px;
+    width: 150px;
+    height: 150px;
 }
 .illustration {
     display: flex;
     flex-direction: column;
+    flex-basis: 150px;
 }
 .footer {
     display: flex;
